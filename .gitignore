@@ -1,0 +1,43 @@
+Componentes/
+v/
+V/
+
+COMBINACOES_15 - Copia.FDB
+COMBINACOES_15CP.FDB
+
+*.doc
+*.docx
+*.fbk
+*.txt
+*.pdf
+*.exe
+*.dll
+*.bpl
+*.bpi
+*.dcp
+*.so
+*.apk
+*.drc
+*.map
+*.dres
+*.rsm
+*.tds
+*.dcu
+*.lib
+*.a
+*.o
+*.ocx
+*.cdr
+*.xls
+*.xlsx
+
+# Delphi history and backups
+__history/
+__recovery/
+*.~*
+
+# Castalia statistics file (since XE7 Castalia is distributed with Delphi)
+*.stat
+
+# Boss dependency manager vendor folder https://github.com/HashLoad/boss
+modules/
